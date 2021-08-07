@@ -1,0 +1,11 @@
+{
+  "name": "@jumanji1112/1.3-ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlisaAA",
+  "license": "ISC"
+}
